@@ -1,6 +1,6 @@
 # WEB102 Prework - *Sea Monster Crowdfunding Database*
 
-Submitted by: **Arya Paliwal*
+Submitted by: *Arya Paliwal*
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
